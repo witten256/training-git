@@ -20,3 +20,5 @@ Untracked files:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+ブラウザから直接READMEを編集
